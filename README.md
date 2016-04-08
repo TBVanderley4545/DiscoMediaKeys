@@ -1,4 +1,4 @@
 ﻿# DiscoMediaKeys
-Alt + Delete = Volume Down.\n
-Alt + End = Volume Up.\n
+Alt + Delete = Volume Down.<br>
+Alt + End = Volume Up.<br>
 Alt + PgDn = Volume Mute.
