@@ -14,3 +14,7 @@ Return
 !PgDn::
 	Send {Volume_Mute}
 Return
+
+LShift & RShift::
+	SetCapsLockState, % GetKeyState("CapsLock", "T")? "Off":"On"	
+Return
